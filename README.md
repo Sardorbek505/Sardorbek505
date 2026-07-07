@@ -206,21 +206,6 @@ A diagnostics tool for auto mechanics and service stations, generating AI-assist
 
 </details>
 
-<details>
-<summary><b>GTA San Andreas: Definitive Edition — Mod Suite</b></summary>
-<br/>
-
-A personal modding project: custom CLEO scripts and a Bullet weapon spawner for the Definitive Edition re-release.
-
-| | |
-|---|---|
-| **Stack** | CLEO Redux (Sanny Builder scripting) |
-| **Status** | Personal project |
-| **Highlights** | Custom hotkey-driven spawner script (F7/F8), CLEO Redux scripting |
-| **Repository** | Private |
-
-</details>
-
 <br/>
 
 ## 📊 GitHub Analytics
